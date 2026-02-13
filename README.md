@@ -21,7 +21,7 @@ A separate **Business Insight PDF report** is also included for detailed underst
 
 ## 🖼️ Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard.png)
+![Mobile Sales Dashboard](image/Screenshot%202026-02-13%20202358.png)
 
 > Upload your Power BI dashboard screenshot in the repo and rename it **dashboard.png** so this image appears here.
 
